@@ -1,0 +1,15 @@
+1;Hector;8;1;Matematicas
+1;Alfonso;9;1;Matematicas
+1;Juan;7;1;Matematicas
+1;Hector;8;1;Ingles
+1;Alfonso;9;1;Ingles
+1;Juan;5;1;Ingles
+1;Hector;8;1;Informatica
+1;Alfonso;6;1;Informatica
+1;Juan;4;1;Informatica
+1;Hector;9;1;Historia
+1;Alfonso;7;1;Historia
+1;Juan;6;1;Historia
+1;Hector;9;1;Matematicas
+1;Alfonso;8;1;Matematicas
+1;Juan;4;1;Matematicas
